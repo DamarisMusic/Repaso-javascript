@@ -33,3 +33,4 @@ if((salario1 >= 100.000) || (salario1 <= 150.000))
 }else{
      return alert('Lo siento, todavía no recibiras un aumento de tu sueldo, a la brevedad recibiras un mensaje.')
 }
+
